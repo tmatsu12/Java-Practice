@@ -3,7 +3,6 @@ package AOJ;
 import java.util.Scanner;
 
 public class ITP1_6_B {
-	
 	public static void main(String[] args) {
 		Scanner scan=new Scanner(System.in);
     String suit="SHCD";
