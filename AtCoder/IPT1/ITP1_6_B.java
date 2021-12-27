@@ -7,7 +7,7 @@ public class ITP1_6_B {
 	public static void main(String[] args) {
 		Scanner scan=new Scanner(System.in);
     String suit="SHCD";
-//    横のサイズを14にしないと13を入れられない
+//  横のサイズを14にしないと13を入れられない
     boolean[][] exist=new boolean[4][14];
     int n=scan.nextInt();
     for(int i=0;i<n;i++){
